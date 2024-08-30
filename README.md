@@ -52,7 +52,7 @@ The script will:
 
 To register a new account, use the following link:
 
-[Register for Cats](https://t.me/catsgang_bot/join?startapp=inWAZ8WTRR25zmFBHLNtq)
+[Register for Cats](http://t.me/catsgang_bot/join?startapp=GE2OaJYUm6L2WNCtK1rkJ)
 
 After registration, add your authorization token to the `data.txt` file.
 
